@@ -1,0 +1,6 @@
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\bin\Debug\Common.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\bin\Debug\Common.pdb
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\obj\Debug\Common.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Common\obj\Debug\Common.pdb

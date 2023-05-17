@@ -1,0 +1,11 @@
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\Domain.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\Domain.pdb
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\Common.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\DataAccess.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\Common.pdb
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\bin\Debug\DataAccess.pdb
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\obj\Debug\Domain.csproj.CopyComplete
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\obj\Debug\Domain.dll
+C:\Users\sandavid\source\repos\CRUD_C-SHARP\CRUDNCapas\Domain\obj\Debug\Domain.pdb
